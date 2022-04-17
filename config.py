@@ -1,7 +1,7 @@
 DEBUG = True
 SECRET_KEY = 'secret'
 
-
+ALLOWED_HOSTS = ['flask-env-one.eba-guz7w6jc.us-west-1.elasticbeanstalk.com']
 # flask-assets
 # ------------
 ASSETS_DEST = 'application/static'

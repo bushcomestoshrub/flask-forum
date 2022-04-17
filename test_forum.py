@@ -3,7 +3,7 @@
     forum_tests.py
     ~~~~~~~~~~~~~~
 
-    Some basic tests on the forum app.
+    Some basic tests on the forum app.py.
 
     TODO: test models, authentication
 
